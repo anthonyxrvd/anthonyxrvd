@@ -5,6 +5,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyxrvd&show_icons=true&theme=merko&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyxrvd&theme=tokyonight)
 
 <!---
