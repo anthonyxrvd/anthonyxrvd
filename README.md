@@ -7,8 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyxrvd&theme=tokyonight&count_private=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anthonyxrvd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!---
